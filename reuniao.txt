@@ -10,11 +10,11 @@ O que é o aplicativo?
 O que temos que fazer?
 -> Definir de maneira IMUTÁVEL o que está duvidoso.
 
-O que está duvidoso?
--> Se haverá a sessão Ideias
--> Se haverá Login
--> Se a tela inicial é a lista de projetos
--> cronograma
+	O que está duvidoso?
+	-> Se haverá a sessão Ideias
+	-> Se haverá Login
+	-> Se a tela inicial é a lista de projetos
+	-> cronograma
 
 
 
