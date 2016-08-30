@@ -1,0 +1,32 @@
+roteiro de reunião
+
+Questão: 
+-> o grupo não ta conseguindo trabalhar
+-> vamos reestabelecer as metas
+
+O que é o aplicativo?
+-> É um gerenciador de histórias
+
+O que temos que fazer?
+-> Definir de maneira IMUTÁVEL o que está duvidoso.
+
+O que está duvidoso?
+-> Se haverá a sessão Ideias
+-> Se haverá Login
+-> Se a tela inicial é a lista de projetos
+-> cronograma
+
+
+
+Reunião com o Herbert sexta-feira:
+-> Vocês precisam estar completamente por dentro do que FOI FEITO.
+-> Precisamos fazer o diagrama de classes, e eu gostaria que alguém fizesse, mas tem que ser bem feito e coerente
+	-> Para ser coerente é necessário que vocês realmente entendam o conceito do projeto.
+
+
+
+
+
+
+
+
